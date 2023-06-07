@@ -1,5 +1,5 @@
 # catnest
-<h1> Сайт для онлайн книжкового магазину " [CatNest](http://catnest.pp.ua/new_version/pages/main.php) "</h1>
+<h1> Сайт для онлайн книжкового магазину [CatNest](http://catnest.pp.ua/new_version/pages/main.php)</h1>
 
 <h3>Головна сторінка</h3>
 
